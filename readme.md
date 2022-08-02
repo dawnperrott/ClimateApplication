@@ -1,4 +1,4 @@
-# Devops Example Project
+# Devops Climate Project
 
 # Project Dependencies
 1. Node.js
